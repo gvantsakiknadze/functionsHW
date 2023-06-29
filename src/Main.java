@@ -1,7 +1,4 @@
-import gvantsaclass.Person;
 
-// Press ⇧ twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
 class Main {
     public static double funcA(double a, double b) {
         return (Math.pow(a, 3) * b - a * Math.pow(b, 3)) / (a * b * (a - b));
